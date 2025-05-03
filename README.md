@@ -1,5 +1,5 @@
 # Leap_year-calculator
-## 用来输出2000到3000年之间的闰年呢
+## to output the leap year from 2000 to 3000
 
 // Write code below 💖
 let i = 2000;
